@@ -9,7 +9,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Họ tên: Phạm Đức Mạnh
 - MSSV: 03079
 - Email: manh.pham03079@gmail.com
-- Link repository: https://github.com/PDManh23/K5-L2-DAY04-PhamDucManh-03079-KeypointPose
+- Link repository: https://github.com/Payjack123/K5-L2-DAY04-PhamDucManh-03079-KeypointPose
 - Phiên bản CVAT (Help → About): 2.74.1
 - Máy: hệ điều hành Windows 10/11 · RAM 8 GB · chạy CVAT chế độ lite
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
